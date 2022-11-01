@@ -16,8 +16,6 @@ András Szilágyi<sup>1</sup>; Tamás Czárán<sup>1</sup>; Mauro Santon<sup>2</
 
 <sup>6</sup>Konrad Lorenz Institute for Evolution and Cognition Research, Klosterneuburg, Austria
 
-Szilágyi, A.; Kovács, V.P.; Czárán, T.; Szathmáry, E. (2022) Evolutionary ecology of language origins through confrontational scavenging (*under review in Philosophical Transactions of the Royal Society B*, URL will be insterted)
-
 Note: The code available from this repository is provided without any warranty or liability.
 
 AgeingEvol.tar.gz contains the full source code
