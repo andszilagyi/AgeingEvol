@@ -10,7 +10,7 @@ AgeingEvol.tar.gz contains the full source code
 
 To build the program under linux or any compatible system using the GCC toolchain, issue the command `make` in the source directory.
 
-The output contains: frequency of living individulas, average age of the population, average rate of aging of the population, minumum rate of aging in the population, maximum rate of aging in the population, average Hamming distance of the population from the actual target, number of 1s in the target.
+The output contains: frequency of living individulas, average age of the population, average rate of aging of the population, minumum rate of aging in the population, maximum rate of aging in the population, average Hamming distance of the population from the actual target and the number of 1s in the target at every `print_mod` time steps. If `print_grid=1` the program also makes snapshots of the grid at every `print_mod` time steps.
 
 The parameters of the model are the following (standard values are in brackets):
 * `N`: size of the  grid (200)  
