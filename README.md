@@ -20,7 +20,7 @@ The parameters of the model are the following (standard values are in brackets):
 * `AgeVal`: proportionality value of senescence (0.01)  
 * `pflipfec`: per bit flip probability of fecundity allels (0.01)  
 * `pflipage`: per bit flip probability of senescence allels (0.01)  
-* `sel_reg`: selection regime, 0: directional, 1: stabilizing  
+* `sel_reg`: type of selection regime (0: directional, 1: stabilizing)  
 * `death_prob_baseline`: baseline death rate (0.05)  
 * `Tfitness`: fitnes period dilution (10)  
 * `prec`: probability of single point recombination (1/0)  
