@@ -23,7 +23,7 @@ The parameters of the model are the following (standard values are in brackets):
 * `sel_reg`: type of selection regime (0: directional, 1: stabilizing)  
 * `death_prob_baseline`: baseline death rate (0.05)  
 * `Tfitness`: fitnes period dilution (10)  
-* `prec`: probability of single point recombination (1/0)  
+* `prec`: probability of single point recombination (1: sexual, 0: asexual)  
 * `fitbase`: base of fitness (1.2)  
 * `ner`: Moore neighbourhood radius (1)  
 * `time_steps`: total time steps of the simulation (10000)  
