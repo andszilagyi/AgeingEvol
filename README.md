@@ -25,9 +25,13 @@ To build the program under linux or any compatible system using the GCC toolchai
 The parameters of the model are the following (standard values are in brackets)
 
 N: size of the  grid (200)
+
 L: total number of loci (100)
+
 LF: number of fecundity loci (50)
+
 LA=L-LF: number of senescence loci (50)
+
 AgeVal: proportionality value of senescence (0.01)
 pflipfec: per bit flip probability of fecundity allels (0.01)
 pflipage: per bit flip probability of senescence allels (0.01)
