@@ -21,3 +21,23 @@ Note: The code available from this repository is provided without any warranty o
 AgeingEvol.tar.gz contains the full source code
 
 To build the program under linux or any compatible system using the GCC toolchain, issue the command `make` in the source directory.
+
+The parameters of the model are the following (standard values are in brackets)
+
+N: size of the  grid (200)
+L: total number of loci (100)
+LF: number of fecundity loci (50)
+LA=L-LF: number of senescence loci (50)
+AgeVal: proportionality value of senescence (0.01)
+pflipfec: per bit flip probability of fecundity allels (0.01)
+pflipage: per bit flip probability of senescence allels (0.01)
+sel_reg: selection regime, 0: directional, 1: stabilizing
+death_prob_baseline: baseline death rate (0.05)
+Tfitness: fitnes period dilution (10)
+prec: probability of single point recombination (1/0)
+fitbase: base of fitness (1.2)
+ner: Moore neighbourhood radius (1)
+time_steps: total time steps of the simulation (10000)
+print_mod: writing out the statistics in every Nth steps (5)
+print_grid: making snapshots of the grid in every print_mod time steps (0: no, 1:yes)
+aging_max: maximum value of rate of aging for vizualization (0.3)
