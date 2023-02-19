@@ -29,4 +29,4 @@ The parameters of the model are the following (standard values are in brackets):
 * `time_steps`: total time steps of the simulation (10000)  
 * `print_mod`: writing out the statistics in every Nth steps (5)  
 * `print_grid`: making snapshots of the grid in every print_mod time steps (0: no, 1: yes)  
-* `aging_max`: maximum value of rate of aging for vizualization (0.3)  
+* `aging_max`: maximum value of rate of aging for vizualization (0.27)  
