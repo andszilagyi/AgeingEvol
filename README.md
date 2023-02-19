@@ -18,13 +18,13 @@ To build the program under linux or any compatible system using the GCC toolchai
 The output contains: frequency of living individulas, average age of the population, average rate of aging of the population, minumum rate of aging in the population, maximum rate of aging in the population, average Hamming distance of the population from the actual target, number of 1s in the target.
 
 The parameters of the model are the following (standard values are in brackets):
-`N`: size of the  grid (200)  
-`L`: total number of loci (100)  
-`LF`: number of fecundity loci (50)  
-`LA=L-LF`: number of senescence loci (50)  
-`AgeVal`: proportionality value of senescence (0.01)  
-`pflipfec`: per bit flip probability of fecundity allels (0.01)  
-`pflipage`: per bit flip probability of senescence allels (0.01)  
+*`N`: size of the  grid (200)  
+*`L`: total number of loci (100)  
+*`LF`: number of fecundity loci (50)  
+*`LA=L-LF`: number of senescence loci (50)  
+*`AgeVal`: proportionality value of senescence (0.01)  
+*`pflipfec`: per bit flip probability of fecundity allels (0.01)  
+*`pflipage`: per bit flip probability of senescence allels (0.01)  
 `sel_reg`: selection regime, 0: directional, 1: stabilizing  
 `death_prob_baseline`: baseline death rate (0.05)  
 `Tfitness`: fitnes period dilution (10)  
