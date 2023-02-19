@@ -22,8 +22,7 @@ AgeingEvol.tar.gz contains the full source code
 
 To build the program under linux or any compatible system using the GCC toolchain, issue the command `make` in the source directory.
 
-The parameters of the model are the following (standard values are in brackets)
-
+The parameters of the model are the following (standard values are in brackets):
 `N`: size of the  grid (200)  
 `L`: total number of loci (100)  
 `LF`: number of fecundity loci (50)  
