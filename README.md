@@ -4,11 +4,11 @@ Repository for software described in
 
 András Szilágyi<sup>1</sup>; Tamás Czárán<sup>1</sup>; Mauro Santon<sup>2</sup>; Eörs Szathmáry<sup>1,4,5,6</sup>
 
-<sup>1</sup>Institute of Evolution, Centre for Ecological Research, Budapest, Hungary
-<sup>2</sup>Departament de Genètica i de Microbiologia, Grup de Genòmica, Bioinformàtica i Biologia Evolutiva (GBBE), Universitat Autònoma de Barcelona, Spain
-<sup>3</sup>cE3c – Centre for Ecology, Evolution and Environmental Changes & CHANGE – Global Change and Sustainability Institute, Lisboa, Portugal
-<sup>4</sup>Center for the Conceptual Foundations of Science, Parmenides Foundation, Pöcking, Germany
-<sup>5</sup>Department of Plant Systematics, Ecology and Theoretical Biology, Eötvös Loránd University, Budapest, Hungary
+<sup>1</sup>Institute of Evolution, Centre for Ecological Research, Budapest, Hungary,
+<sup>2</sup>Departament de Genètica i de Microbiologia, Grup de Genòmica, Bioinformàtica i Biologia Evolutiva (GBBE), Universitat Autònoma de Barcelona, Spain,
+<sup>3</sup>cE3c – Centre for Ecology, Evolution and Environmental Changes & CHANGE – Global Change and Sustainability Institute, Lisboa, Portugal,
+<sup>4</sup>Center for the Conceptual Foundations of Science, Parmenides Foundation, Pöcking, Germany,
+<sup>5</sup>Department of Plant Systematics, Ecology and Theoretical Biology, Eötvös Loránd University, Budapest, Hungary,
 <sup>6</sup>Konrad Lorenz Institute for Evolution and Cognition Research, Klosterneuburg, Austria
 
 AgeingEvol.tar.gz contains the full source code
