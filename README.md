@@ -31,4 +31,4 @@ The parameters of the model are the following (default values are in brackets):
 * `print_grid`: making snapshots of the grid in every print_mod time steps (0: no, 1: yes)  
 * `aging_max`: maximum value of rate of aging for vizualization (0.27)  
 
-Sample_output.tar.gz contains the output of a run with default parameter values and three snapshots of the grid.
+SampleOutput.tar.gz contains the output of a run with default parameter values and three snapshots of the grid.
