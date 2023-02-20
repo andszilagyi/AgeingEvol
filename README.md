@@ -14,6 +14,8 @@ To build the program under linux or any compatible system using the GCC toolchai
 
 The output contains: frequency of living individulas, average age of the population, average rate of aging of the population, minumum rate of aging in the population, maximum rate of aging in the population, average Hamming distance of the population from the actual target and the number of 1s in the target at every `print_mod` time steps. If `print_grid=1` the program also makes snapshots of the grid at every `print_mod` time steps.
 
+### Parameters of the model  
+
 The parameters of the model are the following (default values are in brackets):
 * `N`: size of the  grid (200)  
 * `L`: total number of loci (100)  
@@ -32,5 +34,7 @@ The parameters of the model are the following (default values are in brackets):
 * `print_mod`: writing out the statistics in every Nth steps (5)  
 * `print_grid`: making snapshots of the grid in every print_mod time steps (0: no, 1: yes)  
 * `aging_max`: maximum value of rate of aging for vizualization (0.27)  
+
+### Sample output
 
 SampleOutput.tar.gz contains the output of a run with default parameter values and three snapshots of the grid (at t=500, 1000, 2000).
