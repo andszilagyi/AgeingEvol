@@ -14,7 +14,7 @@ The output contains: frequency of living individulas, average age of the populat
 
 ### Parameters of the model  
 
-The parameters of the model are the following (default values are in brackets):
+The parameters of the model are as follows (default values in brackets):
 * `N`: size of the  grid (200)  
 * `L`: total number of loci (100)  
 * `LF`: number of fecundity loci (50)  
