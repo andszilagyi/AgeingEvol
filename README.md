@@ -1,6 +1,6 @@
 Repository for software described in
 
-# On the evolvability hypothesis of aging: Directional selection coupled with kin selection favors the establishment of senescence
+# Directional selection coupled with kin selection favors the establishment of senescence
 
 András Szilágyi<sup>1</sup>; Tamás Czárán<sup>1</sup>; Mauro Santos<sup>2</sup>; Eörs Szathmáry<sup>1,4,5,6</sup>
 
